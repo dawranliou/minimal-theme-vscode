@@ -2,6 +2,7 @@
     "name": "minimal-theme-vscode",
     "displayName": "minmal",
     "description": "Minimal theme to get things done",
+    "publisher": "dawranliou",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.39.0"
