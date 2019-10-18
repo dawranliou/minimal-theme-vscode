@@ -1,9 +1,10 @@
 {
     "name": "minimal-theme-vscode",
-    "displayName": "minmal",
+    "displayName": "minimal",
     "description": "Minimal theme to get things done",
     "publisher": "dawranliou",
     "version": "0.1.0",
+    "icon": "logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/dawran6/minimal-theme-vscode/"
