@@ -3,7 +3,7 @@
     "displayName": "minimal",
     "description": "Minimal theme to get things done",
     "publisher": "dawranliou",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "icon": "logo.png",
     "repository": {
         "type": "git",
@@ -16,10 +16,12 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Minimal",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Minimal-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Minimal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Minimal-color-theme.json"
+            }
+        ]
     }
 }
